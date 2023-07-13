@@ -28,7 +28,7 @@ Cette application de gestion des tickets et leur etats permet aux utilisateurs d
 1. Clonez ce référentiel sur votre machine locale en utilisant la commande suivante :
 
    ```
-   git clone <lien-vers-votre-référentiel-GitHub>
+   git clone https://github.com/ElTracThor/Ticketing_Cnam_2023.git
    ```
 
 2. Importez la base de données fournie dans le fichier `SQL.sql` dans votre système de gestion de base de données (par exemple, phpMyAdmin).
