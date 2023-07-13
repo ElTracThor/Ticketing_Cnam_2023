@@ -1,6 +1,6 @@
 # Ticketing_Cnam_2023
 
-Cette application de gestion des tickets et leur etats permet aux utilisateurs de créer, visualiser et gérer des tickets et de pouvoir leur ajouter des commentaitres.
+Cette application de gestion des tickets et leur etats permet aux utilisateurs de créer, visualiser et gérer des tickets et de pouvoir leur ajouter des commentaires.
 
 ## Fonctionnalités
 
